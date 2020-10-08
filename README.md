@@ -1,6 +1,6 @@
 # Hey 👋
 
-Meu nome é Matheus de Farias Bonfim 🧑‍💻 🇧🇷
+## Meu nome é Matheus de Farias Bonfim 🧑‍💻 🇧🇷
 
 Sou estudante de Engenharia da Computação - UTFPR 💻
 
