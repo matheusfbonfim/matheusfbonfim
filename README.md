@@ -16,4 +16,3 @@ Sou estudante de Engenharia da Computação - UTFPR 💻
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusfbonfim&hide=contribs,issues,prs)](https://github.com/matheusfbonfim/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfbonfim&hide=css,html,java,objective-c)](https://github.com/matheusfbonfim/github-readme-stats)
