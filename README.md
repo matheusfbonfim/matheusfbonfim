@@ -20,3 +20,4 @@ Sou estudante de Engenharia da Computação - UTFPR 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfbonfim)](https://github.com/matheusfbonfim/github-readme-stats)
 
+![Snake animation](https://github.com/matheusfbonfim/matheusfbonfim/blob/output/github-contribution-grid-snake.svg)
