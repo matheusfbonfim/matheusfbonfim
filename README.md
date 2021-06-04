@@ -7,7 +7,7 @@ Sou estudante de Engenharia da Computação - UTFPR 💻
  - 🕵 Explorando o mundo de conhecimento de tecnologia da informação.
  - 🎓 Disposto a aprender e resolver problemas
  - 💪🏽 Aberto a novos desafios e mudanças
- - 🌱 Atualmente estou aprendendo Javascript
+ - 🌱 Atualmente estou aprendendo ---
  - 📍 Maringá - PR
 
 ### Conecte-se comigo:
