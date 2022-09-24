@@ -13,7 +13,7 @@ Sou estudante de Engenharia da Computação - UTFPR 💻
 ### Conecte-se comigo:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheusfbonfim/)
-[<img src = "https://img.shields.io/badge/- matheusbonfim@alunos.utfpr.edu.br-%23E4505F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:matheusbonfim@alunos.utfpr.edu.br)
+[<img src = "https://img.shields.io/badge/- matheusdefarias.b@gmail.com-%23E4505F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:matheusdefarias.b@gmail.com)
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=5511995770511/)
 
 
