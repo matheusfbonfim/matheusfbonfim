@@ -2,7 +2,7 @@
 
 ## Meu nome é Matheus de Farias Bonfim 🧑‍💻 🇧🇷
 
-Sou estudante de Engenharia da Computação - UTFPR 💻
+Sou formado em Engenharia da Computação - UTFPR 💻
 
  - 🕵 Explorando o mundo de conhecimento de tecnologia da informação.
  - 🎓 Disposto a aprender e resolver problemas
